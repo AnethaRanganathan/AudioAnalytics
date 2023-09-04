@@ -1,3 +1,4 @@
+pip install whisper
 import whisper
 import streamlit as st
 from transformers import BartTokenizer, BartForConditionalGeneration,AutoTokenizer
